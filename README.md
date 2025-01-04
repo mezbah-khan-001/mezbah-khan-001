@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mezbah khan</h1>
-<h3 align="center">I'm a Data scientist expert form Bangladesh. So i can build Ai tools as your requirement</h3>
+<h3 align="center">I'm a Data scientist And Generative Ai Enginner. Expert in AI tools and solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mezbah-khan&label=Profile%20views&color=0e75b6&style=flat" alt="mezbah-khan" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [LearnAI](https://github.com/Mezbah-khan/LearnAi-)
 
-- 🌱 I’m currently learning **deep learning and Generative Ai **
+- 🌱 I’m currently learning **Deep learning and Generative Ai **
 
 - 👯 I’m looking to collaborate on [Microsoft](https://www.microsoft.com/en-us/)
 
@@ -21,9 +21,9 @@
 
 - 💬 Ask me about **My Skill, projects and experience**
 
-- 📫 How to reach me **mezbahkhan155@gmail.com**
+- 📫 How to reach me **mezbahkhanofficial@gmail.com**
 
-- ⚡ Fun fact **I'm a professional Data scientist**
+- ⚡ Fun fact **I'm a professional Data scientist and GenaI Enginner**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
