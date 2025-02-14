@@ -19,11 +19,11 @@
 
 - 📝 I regularly write articles on [https://mezbahkhan.blogspot.com/](https://mezbahkhan.blogspot.com/)
 
-- 💬 Ask me about **My Skill, projects and experience**
+- 💬 Ask me about **My Skill,projects,Experience and models.**
 
 - 📫 How to reach me **mezbahkhanofficial@gmail.com**
 
-- ⚡ Fun fact **I'm a professional Data scientist and GenaI Enginner**
+- ⚡ Fun fact **I'm a professional Data scientist and GenAI Enginner**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
