@@ -1,51 +1,130 @@
-<h1 align="center">Hi, I'm Mezbah khan</h1>
-<h3 align="center">I'm a Data scientist And Generative Ai Enginner. Expert in AI tools and solutions</h3>
+<h1 align="center">🏛️ Mezbah Khan</h1>
+<h3 align="center">CE0 of LearnAI Ltd | LLM Architect | Ryo Engineer | Data Scientist | Generative AI Specialist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mezbah-khan&label=Profile%20views&color=0e75b6&style=flat" alt="mezbah-khan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mezbah-khan" alt="mezbah-khan" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mezbah khan" target="blank"><img src="https://img.shields.io/twitter/follow/mezbah khan?logo=twitter&style=for-the-badge" alt="mezbah khan" /></a> </p>
-
-- 🔭 I’m currently working on [LearnAI](https://github.com/Mezbah-khan/LearnAi-)
-
-- 🌱 I’m currently learning **Deep learning and Generative Ai **
-
-- 👯 I’m looking to collaborate on [Microsoft](https://www.microsoft.com/en-us/)
-
-- 🤝 I’m looking for help with **team members**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Mezbah-khan](https://github.com/Mezbah-khan)
-
-- 📝 I regularly write articles on [https://mezbahkhan.blogspot.com/](https://mezbahkhan.blogspot.com/)
-
-- 💬 Ask me about **My Skill,projects,Experience and models.**
-
-- 📫 How to reach me **mezbahkhanofficial@gmail.com**
-
-- ⚡ Fun fact **I'm a professional Data scientist and GenAI Enginner**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/mezbah khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mezbah khan" height="30" width="40" /></a>
-<a href="https://fb.com/mezbah khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mezbah khan" height="30" width="40" /></a>
-<a href="https://instagram.com/mezbah_09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mezbah_09" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mezbah_khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mezbah_khan" height="30" width="40" /></a>
-<a href="https://discord.gg/mezbah_khan07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mezbah_khan07" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mezbah-khan&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mezbah-khan&theme=onedark&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/knock me"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="knock me" /></a><a href="https://ko-fi.com/hve a meet"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="hve a meet" /></a></p><br><br>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mezbah-khan&show_icons=true&locale=en&layout=compact" alt="mezbah-khan" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mezbah-khan&show_icons=true&locale=en" alt="mezbah-khan" /></p>
+I’m not just a programmer — I’m an **AI architect and ecosystem builder**.
+As **CEO of LearnAI Ltd**, my mission is to **redefine how humans and AI interact** through **Ryo**, our ultimate tech ecosystem.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mezbah-khan&" alt="mezbah-khan" /></p>
+* 🧠 Architect of **RyoAi O1 — 2025 Evolution Edition** (7B param LLM with MoE, LoRA, Pinecone, FP8).
+* 🔭 Currently leading **LearnAI Ltd**: Smart devices, AI tools, Starlink-powered internet, and enterprise AI services.
+* 🌱 Exploring **Deep Learning, RLHF, Quantization, and Multimodal AGI**.
+* 🤝 Open to collaboration with **Microsoft, OpenAI, and global innovators**.
+* 📫 Contact: **[mezbahkhanofficial@gmail.com](mailto:mezbahkhanofficial@gmail.com)**
+* ⚡ Motto: *“Build once. Scale forever. Deploy anywhere.”*
+
+---
+
+## 🏛️ RyoAi — O1 Model (2025 Evolution Edition)
+
+An advanced **AI-powered chatbot** designed for **intelligent, multilingual, real-time conversations** with enterprise-grade security and scalability.
+
+### 🌟 Key Features
+
+* **Next-Gen Transformer (7B params, MoE-enabled)** — 16 experts × 125M each.
+* **Extended Context (16K tokens)** — document-level chats & coding help.
+* **Custom Embeddings (25K tokens, 100GB data)** — contrastive learning + Sentence-BERT.
+* **LoRA + Optuna** — cost-effective fine-tuning & hyperparameter search.
+* **Quantization (6-bit + FP8)** — sub-100ms inference on A100/H100/4090 GPUs.
+* **RAG with Pinecone** — lightning-fast semantic vector search.
+* **Deployment** — FastAPI backend, REST + WebSocket, AWS/Azure/GCP/On-prem.
+* **Enterprise-Grade Security** — biometric auth, on-device inference, E2E encryption.
+
+### 📊 Model Specs
+
+| Metric         | Specification                                               |
+| -------------- | ----------------------------------------------------------- |
+| Data Size      | 100GB (70% multilingual, 20% technical, 10% conversational) |
+| Token Count    | 10B tokens                                                  |
+| Unique Tokens  | 25K (BPE)                                                   |
+| Parameters     | 7B (Mixture of Experts)                                     |
+| Embedding Dim  | 1536 (Ryo-Embeddings-001)                                   |
+| Context Window | 16,000 tokens                                               |
+| Quantization   | 6-bit + FP8 mixed precision                                 |
+| Frameworks     | PyTorch 2.5, FastAPI, Pinecone, BitsAndBytes                |
+
+---
+
+## 🔮 Roadmap
+
+* **O3** → 10B params, real-time ingestion, multimodal (vision + text).
+* **R1** → 1T params, foundation model, full multimodal AGI.
+* **R7** → 3.5T params, multilingual AGI with voice + image.
+
+---
+
+## 🔥 LearnAI — The Future of Technology
+
+LearnAI is a **next-gen tech company from Bangladesh** creating the **Ryo ecosystem**:
+
+* 📱 **Smart AI Tools & Gadgets**
+* 📡 **Internet & SIM Servers** (with Starlink integration)
+* 📊 **AI-Powered Automation & SaaS**
+* 💻 **Enterprise AI Solutions & Consulting**
+* 📱 **Ryo Phones & Devices**
+
+### 💰 Revenue Streams
+
+* Subscription-based AI services.
+* Freemium + premium model.
+* Enterprise solutions & consulting.
+* Smart device & hardware sales.
+
+### 🏢 Company
+
+* Registered: **Private Limited** (expandable to Public Ltd).
+* Initial Funding: **1CR BDT**.
+* Partnerships: **Starlink + local tech firms**.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/mezbah-khan"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://twitter.com/MezbahOfficial_"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+  <a href="https://fb.com/mezbah.khan"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
+  <a href="https://instagram.com/mezbah_09"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+  <a href="https://leetcode.com/mezbah_khan"><img src="https://skillicons.dev/icons?i=leetcode" height="40"/></a>
+  <a href="https://discord.gg/mezbah_khan07"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
+</p>
+
+---
+
+## ⚒️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,linux,git,mysql,firebase,gcp,tensorflow,sklearn" /><br/>
+  <img src="https://skillicons.dev/icons?i=ai,vscode,notion,illustrator" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mezbah-khan&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mezbah-khan&layout=compact&theme=radical&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mezbah-khan&theme=radical&hide_border=true" height="180"/>
+</p>
+
+---
+
+## ☕ Support My Work
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/knockme"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50"/></a>
+  <a href="https://ko-fi.com/hveameet"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50"/></a>
+</p>
