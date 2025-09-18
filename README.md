@@ -1,13 +1,6 @@
 <h1 align="center">🏛️ Mezbah Khan</h1>
 <h3 align="center">CE0 of LearnAI Ltd | LLM Architect | Ryo Engineer | Data Scientist | Generative AI Specialist</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mezbah-khan&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mezbah-khan&theme=onedark&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
